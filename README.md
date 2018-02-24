@@ -19,4 +19,4 @@ if the input and parameter files are in the same folder as the program is, then 
 
 In the above commands we have assumed the transactions data is stored in 'input-data.txt' and the parameters are stored in 'parameter-file.txt'. 
 
-The program will automatically create an "output.txt" file when run successfully. This file will contain the required output in desired format. It will appear inside the same folder where the program was stored.
+The program will automatically create an "output.txt" file when run successfully. This file will contain the required output in desired format. It will appear inside the same folder where the program was stored. The results will also be printed at the command prompt.
