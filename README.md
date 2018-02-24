@@ -1,8 +1,8 @@
 MS-Apriori was an academic project that was a part of the CS 583 Data Mining and Text Mining course. It is an implementation of Apriori algorithm with multiple minimum supports. 
 Additional constraints:
 
-must have: items that should occur in the frequent itmsets generated at the end
-cannot be together: items that cannot occur together in a frequent itemset
+must have: items that should occur in the frequent itmsets generated at the end  
+cannot be together: items that cannot occur together in a frequent itemset  
 Support difference constraint (SDC): max(sup(i)) - min(sup(i)) should be less than or equal to the SDC or phi given, where sup(i) is the actual support count of an item 'i' that belongs
 to a frequent itemset. 
 
