@@ -1,0 +1,49 @@
+Frequent 1-itemsets
+
+	496 : {2}
+	404 : {4}
+	446 : {10}
+	473 : {16}
+	426 : {26}
+	855 : {17}
+	721 : {19}
+	506 : {32}
+	702 : {28}
+	744 : {37}
+	816 : {43}
+	852 : {6}
+
+	Total number of frequent 1-itemsets = 12
+
+
+Frequent 2-itemsets
+
+	178 : {2, 16}
+Tailcount = 473
+	215 : {2, 19}
+Tailcount = 721
+	157 : {2, 33}
+Tailcount = 536
+	200 : {2, 28}
+Tailcount = 702
+	237 : {2, 37}
+Tailcount = 744
+	157 : {2, 47}
+Tailcount = 491
+	172 : {4, 28}
+Tailcount = 702
+	208 : {10, 19}
+Tailcount = 721
+	160 : {10, 32}
+Tailcount = 506
+	159 : {10, 33}
+Tailcount = 536
+	197 : {10, 28}
+Tailcount = 702
+	217 : {10, 37}
+Tailcount = 744
+
+	Total number of frequent 2-itemsets = 12
+
+
+....
